@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,kBACE,YAAa,CACb,yDACF,CAEA,sBACE,WACF","file":"main.32da4372.chunk.css","sourcesContent":[".images-container {\n  display: grid;\n  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));\n}\n\n.images-container img {\n  width: 200px;\n}"]}
