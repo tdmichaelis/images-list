@@ -53,9 +53,9 @@ class App extends React.Component {
   render() {
     // console.log(Ex, test1, testFunction)
     return (
-      <div className="images-list-app">
+      <div className="images-list-app ui container">
         <SearchBar handleSearchInput={this.handleSearchInput} />
-        <div className="images-container">
+        <div className="images-container ui segment">
           {this.renderImageList()}
         </div>
       </div>
